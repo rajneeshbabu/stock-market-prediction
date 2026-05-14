@@ -6,11 +6,12 @@
 [![GPU](https://img.shields.io/badge/GPU-Mixed%20Precision-76b900)](https://www.tensorflow.org/guide/mixed_precision)
 [![yfinance](https://img.shields.io/badge/yfinance-live%20data-brightgreen)](https://github.com/ranaroussi/yfinance)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blueviolet)](https://rajneeshbabu.github.io/stock-market-prediction)
+[![Project Page](https://img.shields.io/badge/Project%20Page-GitHub%20Pages-222?logo=github)](https://rajneeshbabu.github.io/stock-market-prediction/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Predict stock closing prices using a **Bidirectional LSTM** neural network trained on real historical OHLCV data (Kaggle dataset) enriched with 10 technical indicators. GPU-accelerated training with mixed precision (float16). Includes a real-time Streamlit app and a GitHub Pages demo.
 
-**Live Demo**: [rajneeshbabu.github.io/stock-market-prediction](https://rajneeshbabu.github.io/stock-market-prediction)
+🌐 **[View Project Page →](https://rajneeshbabu.github.io/stock-market-prediction/)**
 
 ---
 
